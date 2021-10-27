@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Farhan Rasheed.
+- 👋 Hi, I’m Dr. Farhan Rasheed (Ph.D. in Computer Engineering).
 - 👀 I’m interested in Embedded Systems, AI/ML and Electronic Design Automation (EDA).
 - 🌱 I’m currently learning Embedded Machine Learning for edge devices.
 - 💞️ I’m looking to collaborate on open-source tools for bringing machine learning to hardware.
